@@ -18,8 +18,8 @@ start_message = """
 <b>@VJ_Botz</b>"""
 
 about_message = """
-<b>• Name : <a href=https://t.me/VJ_Botz>VJ AutoCaption</a></b>
-<b>• Developer : <a href=https://t.me/VJ_Botz>[VJ UPDATES]</a></b>
+<b>• Name : <a href=https://t.me/AUTOCAPTION40BOT>VJ AutoCaption</a></b>
+<b>• Developer : <a href=https://t.me/AUTOCAPTION40BOT>[VJ UPDATES]</a></b>
 <b>• Language : Python3</b>
 <b>• Library : Pyrogram v{version}</b>
 <b>• Updates : <a href=https://t.me/VJ_Botz>Click Here</a></b>
@@ -85,7 +85,7 @@ def about_buttons(bot, update):
     return pyrogram.types.InlineKeyboardMarkup(buttons)
 
 print("Telegram AutoCaption V1 Bot Start")
-print("Bot Created By @VJ_Botz")
+print("Bot Created By @AUTOCAPTION40BOT")
 
 AutoCaptionBotV1.run()
 
